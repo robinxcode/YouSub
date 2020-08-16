@@ -1,3 +1,6 @@
+# [Robin]
+[![Netlify Status]]
+
 Ini web pertama saya menggunakan Vue.js. 
 
 Web ini juga dibuat menggunakan kode sumber dan bootstrap.
