@@ -1,5 +1,4 @@
-# [Robin]
-[![Netlify Status]]
+# [YouSub](https://yousub.netlify.app/)
 
 Ini web pertama saya menggunakan Vue.js. 
 
